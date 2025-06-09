@@ -1,9 +1,3 @@
-/**
- * Функция для получения списка артикулов товаров на странице groupprice.ru
- * 
- * @returns {Array} Массив артикулов товаров
- */
-
 function getProductArticles() {
   const articles = [];
   
