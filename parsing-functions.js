@@ -99,11 +99,6 @@ function getProductArticles() {
   }
 }
 
-/**
- * Функция для получения характеристик товара на странице nir-vanna.ru
- * 
- * @returns {Object} Объект с характеристиками товара в формате attributeName: value
- */
 function getProductAttributes() {
   const attributes = {};
   
